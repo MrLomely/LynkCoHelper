@@ -8,7 +8,7 @@
 #     （非个人账号凭证），一个 JSON 字符串 Secret 整合以下 6 个独立字段，
 #     必须配置，否则脚本无法计算请求签名。
 
-name: LynkCoHelperRunner
+name: LynkCoHelperRunner_1
 
 on:
   schedule:
